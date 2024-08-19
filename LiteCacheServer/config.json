@@ -1,0 +1,7 @@
+{
+  "LiteCacheConfig": {
+    "IP": "127.0.0.1",
+    "Password": "password",
+    "Port": 6379
+  }
+}
